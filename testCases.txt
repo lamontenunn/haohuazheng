@@ -1,0 +1,17 @@
+Start: HNL
+End: PVD
+The shortest distance between HNL and PVD is 5317 miles.
+The shortest route between HNL and PVD is
+HNL -> LAX -> DFW -> LGA -> PVD
+
+Start: SFO
+End: MIA
+The shortest distance between SFO and MIA is 2690 miles.
+The shortest route between SFO and MIA is
+SFO -> LAX -> DFW -> MIA
+
+Start: LAX
+End: MIA
+The shortest distance between LAX and MIA is 2353 miles.
+The shortest route between LAX and MIA is
+LAX -> DFW -> MIA
